@@ -6,7 +6,7 @@ This repo is a python script that you can put into an AWS lambda function.  From
 
 I didn't put that much time into this.  I have a liftmaster device so just got that to work.  It should work with liftmaster, chamberlain, craftsman, or merlin. I have all the appid's, just change to suit your needs.
 
-If you want to use it for something else and need some assistance give me a shout and I'll assist getting it to work withanything behind the MyQ smart home.
+If you want to use it for something else and need some assistance give me a shout and I'll assist getting it to work with anything behind the MyQ smart home.
 
 # How to use
 
